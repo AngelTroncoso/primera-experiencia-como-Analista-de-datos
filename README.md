@@ -63,6 +63,6 @@ Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, ¡no dudes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/angeltroncoso)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngelTroncoso)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](angeltroncoso2019@outlook.es)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeltroncoso2019@outlook.es)
 
 ¡Gracias por visitar mi portafolio! 😊
